@@ -33,6 +33,8 @@ At each frame, a ray is casted to find the collision using **Raymarching Algorit
 
 ## Different Shaders
 
+For Camera Movement, I have made a camera controller script, but any first person controller script should work fine.
+
 #### Infinity Sphere Shader
 https://user-images.githubusercontent.com/98254989/170684719-ceef561b-e943-4221-9c4f-6c60e6e2cd22.mp4
 
