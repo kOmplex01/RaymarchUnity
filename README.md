@@ -3,6 +3,11 @@ In this project, I have tried out Raymarching, which is a technique to render an
 
 ![image](https://user-images.githubusercontent.com/98254989/170685433-830c3908-ae23-433b-a24f-f1685d1e1254.png)
 
+## What is Raymarching
+https://user-images.githubusercontent.com/98254989/170692824-c2c23f08-bb9d-450b-99d1-09b50297165c.mp4
+
+Raymarching Alogorithm detects collision by checking for minimum distance the ray can move freely in any direction without hitting anything each step.
+
 ## Features Defined
 ![image](https://user-images.githubusercontent.com/98254989/170683738-18303f32-e2ef-4ab5-acbb-26f8298d6193.png)
 Try to tweak the values to observe the changes
