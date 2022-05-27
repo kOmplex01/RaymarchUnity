@@ -1,4 +1,4 @@
-# RaymarchUnity
+# Raymarch Unity
 In this project, I have tried out Raymarching, which is a technique to render any objects without any polygon & Triangles if we can find out the ****Signed Distance Function**** of that object.
 
 ## Features Defined
