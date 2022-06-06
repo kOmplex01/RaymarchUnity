@@ -10,6 +10,7 @@ Raymarching Alogorithm detects collision by checking for minimum distance the ra
 
 ## Features Defined
 ![image](https://user-images.githubusercontent.com/98254989/170683738-18303f32-e2ef-4ab5-acbb-26f8298d6193.png)
+
 Try to tweak the values to observe the changes
 
 ## Adding Color to the Shader
